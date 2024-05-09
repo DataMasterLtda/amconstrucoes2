@@ -1146,7 +1146,7 @@ textarea#comment.massage-bt::placeholder {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    padding: 0px 120px 30px 120px;
+    padding: 0px 60px 30px 60px;
     line-height: 30px;
     font-family: 'Poppins', sans-serif;
 }
